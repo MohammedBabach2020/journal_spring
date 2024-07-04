@@ -9,11 +9,11 @@
         <version>2.7.1</version>
         <relativePath/>
     </parent>
-    <groupId>ma.norsys.school</groupId>
-    <artifactId>school-management</artifactId>
+    <groupId>ma.micda.journal</groupId>
+    <artifactId>journal-management</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>school-management</name>
-    <description>School Management System Project</description>
+    <name>journal-management</name>
+    <description>journal System Project</description>
 
     <properties>
         <java.version>11</java.version>

@@ -1,4 +1,4 @@
-# School Management Back
+# Journal Project
 
 ## Run Spring Boot application
 ```
